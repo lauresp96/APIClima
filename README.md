@@ -7,9 +7,9 @@ Esta es una API RESTful que proporciona información sobre el clima de diferente
 ### Endpoints disponibles
 
 #### 1. **Obtener todos los climas registrados**  
-#### 2. ** Obtener clima por ID**
-#### 3. ** Crear Nuevo Registro de clima**
-#### 4. ** Eliminar Registro de clima por ID**
+#### 2. **Obtener clima por ID**
+#### 3. **Crear Nuevo Registro de clima**
+#### 4. **Eliminar Registro de clima por ID**
 
 ## Tecnologías Utilizadas
 **Spring Boot: Framework principal para la construcción de la API REST.**
